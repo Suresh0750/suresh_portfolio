@@ -1,0 +1,14 @@
+.container
+{
+   margin: 4em;
+   border:9px solid lightgreen;
+
+}
+.items
+{
+    display: inline-block;
+    padding:8px;
+    border-bottom: 1px red solid;
+    background-color:orangered;
+    font-weight: bolder;
+}
